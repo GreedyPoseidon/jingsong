@@ -1,0 +1,10 @@
+# jemdoc: menu{MENU}{projects.html}, nofooter
+== Projects 
+
+=== Research Launched at NEU
+
+~~~
+{}{img_left}{gif/1.png}{alt text}{370}{200}
+*Cross-Modality Person Re-Identification Research* \n
+Developed and deployed a Cross-modality Person Re-Identification model with PyTorch and TensorRT-LibTorch, which significantly outperforms most SOTA algorithms\n
+~~~

@@ -1,0 +1,57 @@
+# jemdoc: menu{MENU}{index.html}, nofooter
+== Biography-Jingsong Vincent Liang
+~~~
+ {{  <div style="text-align:center;padding-top:30px;padding-bottom:20px;">
+<a target="_blank" href="http://www.neu.edu.cn/"><img src="ico1.png" style="height:40px;padding-right:20px;"></a>
+<a target="_blank" href="https://www.cam.ac.uk/"><img src="ico2.png" style="height:40px;padding-right:20px;"></a>
+<a target="_blank" href="https://www.nus.edu.sg/"><img src="ico3.png" style="height:40px;padding-right:20px;"></a></div>}}
+~~~
+{}{img_left}{photos/bio2.gif}{alt text}{100px}{100px}
+# [https://google.com/ *梁靖松*, *Jingsong Vincent Liang*] \n 
+# M.S. in Computer Science, at [https://www.nus.edu.sg/ National University of Singapore] \n
+# B.S. in Telecommunications Engineering, at [http://www.neu.edu.cn/ Northeastern University] \n
+Address:  NUS School of Computing, Singapore 117417\n
+Email: [jingsongleung@gmail.com jingsongleung@gmail.com] \n
+#\[[https://scholar.google.com/citations?user=CIfBuzcAAAAJ&hl=en Google Scholar]\]\[[CV.pdf Curriculem Vitae]\] \n
+~~~
+
+#== News
+#- \[05-15-2020\] "List-wise fairness criterion for point processes" is accepted by KDD'20!
+#- \[05-04-2020\] Defended my Ph.D. dissertation titled "Predictive modeling of asynchronous event sequence data"!
+#- \[05-25-2019\] An extention of our ICDM'18 work "Local low-rank Hawkes processes for modeling temporal user-item interactions" is accepted by Knowledge and Information Systems(KAIS)!
+#- \[10-31-2018\] "Geometric Hawkes processes with graph convolutional recurrent neural networks" is accepted by AAAI'19! 
+#- \[08-18-2018\] "Local low-rank Hawkes processes for temporal user-item interactions" is accepted by ICDM'18!
+#- \[08-18-2018\] "Demographic inference via knowledge transfer in cross-domain recommender systems" is accepted by ICDM'18!
+
+#== About me
+#I'm currently working at [https://www.amazon.com/ Amazon] as an Applied Scientist. I got my Ph.D. in Computer Science at Louisiana State University, under the guidance of Dr. [http://csc.lsu.edu/~msun/ Mingxuan Sun]. My research focuses on developing computationally efficient machine learning as well as deep learning models and algorithms, with applications in recommender systems, time-series analysis, computer vision, computer graphics, natural language processing, and fairness.
+
+== Research Interests 
+- Statistical Machine Learning, Deep Learning, Point Process, Optimization, Fairness
+- Data Mining, Information Retrieval, Recommender System 
+- Computer Vision, Computer Graphics, Natural Language Processing
+
+== Employment
+- *Research Assistant*, Next Generation Wireless System Laboratory, China, 2021-2022
+
+- *Research Intern*, National Laboratory of Data Analytic and Optimization for Smart Industry, 2020-2021
+
+== Education 
+#- Ph.D. in Computer Science, Louisiana State University, Aug. 2016 - Aug. 2020
+- *M.S.* in Computer Science, National University of Singapore (NUS), Singapore, 2022 - present
+-- School of Computing & College of Desigh and Engineering
+
+- *Visiting Student* in Computer Science, University of Cambridge, England, 2021-2021
+-- Department of Engineering
+
+- *B.S.* in Telecommunications Engineering, Northeastern University (NEU), China, 2018 - 2022
+-- School of Computer Science and Engineering
+
+
+
+#== Visitors
+#~~~
+#{}{raw}
+#<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=300&t=n&d=weAawplBogRZm4707J2DPkv1Pn3WYzslKBDineUl-bw'></script>
+#~~~
+
